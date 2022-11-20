@@ -3,7 +3,7 @@
 <h1 style="color:black font-family: "Courier New"" align="center">Welcome To My Github Profile, New Friend !</h1>
 <div id="HelloMsg" align="center">
 <!--   <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="500"/> -->
-  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/K7StRcr7hagJpXROmb/giphy.gif" width="500"/>
 </div>
 
 <!-- Social media -->

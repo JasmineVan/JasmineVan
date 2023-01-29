@@ -18,5 +18,3 @@
     <img src="https://img.shields.io/badge/Skype-blue?style=for-the-badge&logo=skype&logoColor=white" alt="Skype"/>
   </a>
 </div>
-
-<img src="https://giphy.com/embed/l3c614V12UA82q1vG" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></img><p><a href="https://giphy.com/gifs/space-stars-universe-l3c614V12UA82q1vG">via GIPHY</a></p>

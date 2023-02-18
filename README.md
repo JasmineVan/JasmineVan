@@ -2,7 +2,7 @@
 <div id="HelloMsg" align="center">
   <img src="https://giphy.com/gifs/japan-your-name-makoto-shinkai-xUNd9VlzCHOF72g4AU" width="500"/>
 </div>
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/xUNd9VlzCHOF72g4AU" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/japan-your-name-makoto-shinkai-xUNd9VlzCHOF72g4AU">via GIPHY</a></p>
+
 # 🙆**About Me** :
 🍭 I am a 4th-year Software Engineering student of Ton Duc Thang University.
 ☕ I am acquainted with Software Development Life Cycle, Project Management, Security, Operating System and Software manual testing. 

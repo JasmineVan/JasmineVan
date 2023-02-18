@@ -1,4 +1,4 @@
-<h1 style="color:black font-family: "Fira Sans"" align="center">Welcome To My Github Profile, New Friend !</h1>
+<h1 style="color:black font-family: "Fira Sans"" align="center">WELCOME TO MY GITHUB PROFILE ! -__JASMINE__-</h1>
 <div id="HelloMsg" align="center">
   <img src="https://media.giphy.com/media/xUNd9VlzCHOF72g4AU/giphy.gif" width="500"/>
 </div>

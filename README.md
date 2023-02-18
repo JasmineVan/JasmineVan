@@ -4,10 +4,10 @@
 </div>
 
 # 🙆**About Me** :
-🍭 I am a 4th-year Software Engineering student of Ton Duc Thang University.
-☕ I am acquainted with Software Development Life Cycle, Project Management, Security, Operating System and Software manual testing. 
-🍩 Having knowledge in Machine Learning, Artificial Intelligence. 
-🍰 Skilled with Java, Python, JavaScript, HTML, Pure PHP, C# and 1C:ERP.
+🍭 I am a 4th-year Software Engineering student of Ton Duc Thang University. <br/>
+☕ I am acquainted with Software Development Life Cycle, Project Management, Security, Operating System and Software manual testing. <br/>
+🍩 Having knowledge in Machine Learning, Artificial Intelligence. <br/>
+🍰 Skilled with Java, Python, JavaScript, HTML, Pure PHP, C# and 1C:ERP. <br/>
 
 ## 🌏**Socials**
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/Jasmine2001) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://discord.gg/yCChbmNy6T) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/TrinhThuong2001) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Thuong-Trinh-Van) 
@@ -18,9 +18,10 @@
   
   
 # 🌈**GitHub Stats** :
-![](https://github-readme-stats.vercel.app/api?username=JasmineVan&theme=vue&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=JasmineVan&theme=vue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=JasmineVan&theme=vue&hide_border=false&include_all_commits=true&count_private=true)
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=JasmineVan&theme=vue&hide_border=false) -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JasmineVan&theme=vue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ## 🏆**GitHub Trophies**
 ![](https://github-trophies.vercel.app/?username=JasmineVan&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=4)

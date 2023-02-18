@@ -1,7 +1,6 @@
 <h1 style="color:black font-family: "Fira Sans"" align="center">Welcome To My Github Profile, New Friend !</h1>
 <div id="HelloMsg" align="center">
-<!--   <img src="https://media.giphy.com/media/VDGOdvmp1bpc3PcCry/giphy.gif" width="500"/> -->
-  <img src="https://media.giphy.com/media/K7StRcr7hagJpXROmb/giphy.gif" width="500"/>
+  <img src="https://giphy.com/gifs/alltheanimeuk-anime-limited-all-the-VDGOdvmp1bpc3PcCry" width="500"/>
 </div>
 # 🙆**About Me** :
 🍭 I am a 4th-year Software Engineering student of Ton Duc Thang University.

@@ -5,8 +5,8 @@
 
 # 🙆**About Me** :
 🍭 I am a 4th-year Software Engineering student of Ton Duc Thang University. <br/>
-☕ I am acquainted with Software Development Life Cycle, Project Management, Security, Operating System and Software manual testing. <br/>
-🍩 Having knowledge in Machine Learning, Artificial Intelligence. <br/>
+☕ I am acquainted with Software Development Life Cycle, Project Management, Security, Operating System. <br/>
+🍩 Having knowledge in Machine Learning, Artificial Intelligence and Software Manual Testing (BB, WB). <br/>
 🍰 Skilled with Java, Python, JavaScript, HTML, Pure PHP, C# and 1C:ERP. <br/>
 
 ## 🌏**Socials**

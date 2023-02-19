@@ -1,7 +1,7 @@
 <h1 style="color:black font-family: "Comic Sans"" align="center">WELCOME TO MY GITHUB PROFILE !</h1>
 <h3 style="color:black font-family: "Comic Sans"" align="center">🌼 Jasmine 🌼</h1>
 <div id="HelloMsg" align="center">
-  <img src="https://media.giphy.com/media/xUNd9VlzCHOF72g4AU/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/xUNd9VlzCHOF72g4AU/giphy.gif" width="100%" height="100%"/>
 </div>
 
 # 🙆**About Me** :

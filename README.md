@@ -1,5 +1,3 @@
- ![99's Github Stats](https://github-readme-stats.vercel.app/api?username=JasmineVan&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-
 <h1 style="color:black font-family: "Comic Sans"" align="center">WELCOME TO MY GITHUB PROFILE !</h1>
 <h3 style="color:black font-family: "Comic Sans"" align="center">🌼 Jasmine 🌼</h1>
 <div id="HelloMsg" align="center">

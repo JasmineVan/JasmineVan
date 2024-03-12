@@ -14,17 +14,17 @@
 ## 💞**hobby of mine**
 Welcome to my world of diverse interests and passions! I find joy in exploring different facets of life, and my hobbies reflect the colorful tapestry of my pursuits.
 
-# As a reading enthusiast:
-I dive into the world of books, not just for pastime but also to journey into new realms of imagination and knowledge. I relish the magic that unfolds between the pages, from gripping novels to thought-provoking non-fiction.
+### As a reading enthusiast:
+📚 I dive into the world of books, not just for pastime but also to journey into new realms of imagination and knowledge. I relish the magic that unfolds between the pages, from gripping novels to thought-provoking non-fiction.
 
-# Soccer:
-It is not just a sport, but a passion that keeps me active, focused and connected to the thrill of competition. When I'm not lost in the pages of a good book, you'll likely find me on the soccer field, chasing the ball, and relishing the camaraderie of the game.
+### Soccer:
+️⚽️ It is not just a sport, but a passion that keeps me active, focused and connected to the thrill of competition. When I'm not lost in the pages of a good book, you'll likely find me on the soccer field, chasing the ball, and relishing the camaraderie of the game.
 
-# My fascination with technology goes beyond the ordinary:
-I'm always on the lookout for the latest gadgets and innovations that shape our digital world. Exploring the realms of cutting-edge tech keeps me on my toes and fuels my curiosity for what the future holds.
+### My fascination with technology goes beyond the ordinary:
+💻 I'm always on the lookout for the latest gadgets and innovations that shape our digital world. Exploring the realms of cutting-edge tech keeps me on my toes and fuels my curiosity for what the future holds.
 
-# As a manga and anime devotee:
-There's something truly captivating about the world of Japanese manga and anime. The vibrant storytelling, unique characters, and rich cultural elements draw me into a realm of creativity and emotion. Exploring this dynamic aspect of Japanese pop culture is not just a hobby but also a source of inspiration.
+### As a manga and anime devotee:
+🌸 There's something truly captivating about the world of Japanese manga and anime. The vibrant storytelling, unique characters, and rich cultural elements draw me into a realm of creativity and emotion. Exploring this dynamic aspect of Japanese pop culture is not just a hobby but also a source of inspiration.
 
 Join me on this journey as I share my experiences, insights, and discoveries in these varied realms. Each passion adds a unique hue to the canvas of my life, and I invite you to explore with me and discover the beauty of diverse interests!
 

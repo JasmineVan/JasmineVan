@@ -1,3 +1,7 @@
+<h1>This is a heading with gradient (might not work everywhere)</h1>
+
+<span style="background: linear-gradient(to right, #f00, #ff0); padding: 5px;">This text has a gradient background (limited support)</span>
+
 <h1 style="background: linear-gradient(to right, #FEC7B4, #F7418F); font-family: 'Comic Sans MS', cursive; text-align: center;">WELCOME TO MY GITHUB PROFILE!</h1>
 <h3 style="color:black font-family: "Comic Sans"" align="center">🌼 Jasmine 🌼</h1>
 <div id="HelloMsg" align="center">

@@ -1,8 +1,6 @@
-<link rel="stylesheet" href="styles.css">
+ ![99's Github Stats](https://github-readme-stats.vercel.app/api?username=JasmineVan&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
-<h1>This is a heading with gradient (using external CSS)</h1>
-
-<h1 style="background: linear-gradient(to right, #FEC7B4, #F7418F); font-family: 'Comic Sans MS', cursive; text-align: center;">WELCOME TO MY GITHUB PROFILE!</h1>
+<h1 style="color:black font-family: "Comic Sans"" align="center">WELCOME TO MY GITHUB PROFILE !</h1>
 <h3 style="color:black font-family: "Comic Sans"" align="center">🌼 Jasmine 🌼</h1>
 <div id="HelloMsg" align="center">
   <img src="https://media.giphy.com/media/xUNd9VlzCHOF72g4AU/giphy.gif" width="100%" height="100%"/>

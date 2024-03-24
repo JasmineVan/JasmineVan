@@ -11,7 +11,7 @@
 🍩 I am proficient in programming languages such as Java, Python, JavaScript, HTML, Pure PHP, C#, and 1C: Enterprise. <br/>
 🍰 With my experience, I am confident in my ability to tackle any software engineering challenge that comes my way.<br/>
 
-## 💞**hobby of mine**
+## 💞**Hobby of mine**
 Welcome to my world of diverse interests and passions! I find joy in exploring different facets of life, and my hobbies reflect the colorful tapestry of my pursuits.
 
 ### As a reading enthusiast:

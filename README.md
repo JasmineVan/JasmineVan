@@ -1,8 +1,9 @@
 <h1 style="color:black font-family: "Comic Sans"" align="center">WELCOME TO MY GITHUB PROFILE !</h1>
 <h3 style="color:black font-family: "Comic Sans"" align="center">🌼 Jasmine 🌼</h1>
-<div id="HelloMsg" align="center">
+<!-- <div id="HelloMsg" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDkzMGZyOTVmZzdmZGV4aXlkMTB6bWpwZnVvMWxiZjAyZm82Z3hwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uB2szZH5JSIU0/giphy.gif" width="100%" height="100%"/>
-</div>
+</div> -->
+![](Stream.jpg)
 
 # 🙆**ABOUT ME** :
 🍭 I am a highly skilled software engineer who graduated from Ton Duc Thang University and currently works at Techfis Vietnam.<br/>

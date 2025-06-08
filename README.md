@@ -2,8 +2,8 @@
 <h3 style="color:black font-family: "Comic Sans"" align="center">🌼 Jasmine Van 🌼</h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3emhqeml2bXN4enF1MWdmYnduNGJtbW02emZuMWhiYmhjeXl5M3d6bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3ohjV0L3KsusIvOik0/giphy.gif" width="30%" style="margin:0px;" />
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHpjMTlndTYzOHNwbTFwdHJ5NXZ0M3oxd2ZseDdleTd2YXJoc2ZmYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xUNd9VlzCHOF72g4AU/giphy.gif" width="30%" style="margin:5px;" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3emhqeml2bXN4enF1MWdmYnduNGJtbW02emZuMWhiYmhjeXl5M3d6bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3ohjV0L3KsusIvOik0/giphy.gif" width="30%" style="margin:5px;" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHpjMTlndTYzOHNwbTFwdHJ5NXZ0M3oxd2ZseDdleTd2YXJoc2ZmYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xUNd9VlzCHOF72g4AU/giphy.gif" width="30%" style="margin:0px;" />
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aTlqMnNrd2d5c3RnMjcxajlzaTBiaXllOXZ4dWQyaXRxaGpndTZjaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o6nUUlx8V78opqJ4k/giphy.gif" width="30%" style="margin:5px;" />
   <br>
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dWdhZjBoYndjOHVsdWo3c3R5NDM3eDR0MHM4N3dzYXc2cnV0aTdlNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JQolEEzsI8nsA1izfK/giphy.gif" width="90%" style="margin:10px 0;" />

@@ -1,6 +1,3 @@
-<h1 style="color:black font-family: "Comic Sans"" align="center">WELCOME TO MY GITHUB PROFILE !</h1>
-<h3 style="color:black font-family: "Comic Sans"" align="center">🌼 Jasmine Van 🌼</h1>
-
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3emhqeml2bXN4enF1MWdmYnduNGJtbW02emZuMWhiYmhjeXl5M3d6bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3ohjV0L3KsusIvOik0/giphy.gif" width="30%" style="margin:5px;" />
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHpjMTlndTYzOHNwbTFwdHJ5NXZ0M3oxd2ZseDdleTd2YXJoc2ZmYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xUNd9VlzCHOF72g4AU/giphy.gif" width="30%" style="margin:0px;" />
@@ -12,6 +9,9 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aTRwYmtvNGxyeHh5eHl3M2oyeHc1b2U4MzdxYnR5dW5lZ2UweWpnNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xUNda4mi9WNlUJgCm4/giphy.gif" width="30%" style="margin:0px;" />
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzEyZjZkMnA4bGN1b2k5cXEwOGVsb3hrcmE4dmV1MDRuNzNzcms4ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jQQRWxSlW1tWvWigA9/giphy.gif" width="30%" style="margin:5px;" />
 </div>
+
+<h1 style="color:black font-family: "Comic Sans"" align="center">WELCOME TO MY GITHUB PROFILE !</h1>
+<h3 style="color:black font-family: "Comic Sans"" align="center">🌼 Jasmine Van 🌼</h1>
 
 # 🙆**ABOUT ME** :
 🍭 I am a highly skilled software engineer who graduated from Ton Duc Thang University and currently works at Techfis Vietnam.<br/>

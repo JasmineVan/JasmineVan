@@ -87,24 +87,13 @@ I find joy, emotions, and inspiration from rich Japanese storytelling.
 
 ---
 
-## 📊 GitHub Stats
-
-<!-- 
-![](https://github-readme-stats.vercel.app/api?username=JasmineVan&theme=vue&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=JasmineVan&theme=vue&hide_border=false)  
--->
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JasmineVan&theme=vue&hide_border=false&layout=compact)
-
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-trophies.vercel.app/?username=JasmineVan&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=4)
-
----
-
 ## 💬 Quote of the Day
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31nmvsifepwlicd6yk65nsf7xpbq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+---
+
+## ️🎧 Music Lover
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 

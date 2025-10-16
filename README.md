@@ -78,6 +78,31 @@
         </div>
       </td>
     </tr>
+    <tr>
+      <div align="center">
+        <table style="width:100%; max-width:980px; border-collapse:separate; border-spacing:12px;">
+          <tr>
+            <td align="center" style="width:33.33%; vertical-align:top;">
+              <a href="https://github.com/kittinan/spotify-github-profile">
+                <img
+                  src="https://spotify-github-profile.kittinanx.com/api/view?uid=31nmvsifepwlicd6yk65nsf7xpbq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false"
+                  alt="Card 1" style="width:100%; display:block; border-radius:12px;">
+              </a>
+            </td>
+            <td align="center" style="width:33.33%; vertical-align:top;">
+              <a href="https://github.com/kittinan/spotify-github-profile">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31nmvsifepwlicd6yk65nsf7xpbq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f">
+              </a>
+            </td>
+            <td align="center" style="width:33.33%; vertical-align:top;">
+        <a href="https://github.com/kittinan/spotify-github-profile">
+          <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31nmvsifepwlicd6yk65nsf7xpbq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false">
+        </a>
+            </td>
+          </tr>
+        </table>
+      </div>
+    </tr>
   </table>
 </div>
 
@@ -148,33 +173,6 @@
     <img alt="Netlify" src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=%2300C7B7" />
   </p>
 
-</div>
-
----
-
-<h2 align="center">🎧 Music Lover</h2>
-<div align="center">
-  <table style="width:100%; max-width:980px; border-collapse:separate; border-spacing:12px;">
-    <tr>
-      <td align="center" style="width:33.33%; vertical-align:top;">
-        <a href="https://github.com/kittinan/spotify-github-profile">
-          <img
-            src="https://spotify-github-profile.kittinanx.com/api/view?uid=31nmvsifepwlicd6yk65nsf7xpbq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false"
-            alt="Card 1" style="width:100%; display:block; border-radius:12px;">
-        </a>
-      </td>
-      <td align="center" style="width:33.33%; vertical-align:top;">
-        <a href="https://github.com/kittinan/spotify-github-profile">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31nmvsifepwlicd6yk65nsf7xpbq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f">
-        </a>
-      </td>
-      <td align="center" style="width:33.33%; vertical-align:top;">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31nmvsifepwlicd6yk65nsf7xpbq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false">
-  </a>
-      </td>
-    </tr>
-  </table>
 </div>
 
 ---
